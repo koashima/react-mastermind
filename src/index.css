@@ -20,4 +20,5 @@ code {
 
 .flex-component { 
   display: flex;
+  justify-content: space-between;
 }
