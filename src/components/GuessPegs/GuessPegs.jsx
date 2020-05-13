@@ -3,7 +3,7 @@ import GuessPeg from '../GuessPeg/GuessPeg'
 
 const GuessPegs = (props) => { 
   return (
-    <div className="component">
+    <div className="component flex-component">
       GuessPegs
       <GuessPeg />
       <GuessPeg />
